@@ -11,7 +11,55 @@ print(boy_marks)
 
 
 
-x = y = z = 10
-a, b, c = 30, 40, 70
+u= y = z = 10
+p, b, c = 30, 40, 70
 r = 3
 t, s, j = 3, 4, 5
+a= int(2)
+
+price =10
+qaty =5
+total = price*qaty
+print("the total is:"+str(total)+"kenya shillings")
+
+frstname="dan"
+secndname="moko"
+thrdname=frstname + " " + secndname
+print("my third name is:", thrdname)
+print(25//5)
+print(5**6)
+
+x=5
+print(x)
+x+=5 #x=x+5
+print(x)
+x-=4 #x=x-5
+print(x)
+x*=3 #x=x*3
+print(x)
+x//=2 #x=x/2
+print(x)
+
+#comparison ops
+q=20
+z=21
+print(q==z)
+#logical ops
+age=50
+nationality= "kenyan"
+
+if nationality == "kenyan" and age>=35:
+    print ( "can be preso")
+else:
+    print("cannot be preso")
+
+
+location="ruiru"
+location="juja"
+location="keno"
+
+if location =="ruiru" or "juja" or "kenol":
+    print("can be governor")
+else:
+    print("cannot be governor")
+
