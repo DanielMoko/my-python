@@ -6,5 +6,9 @@ male = "true"
 
 print(boy_age)
 print(boy_name)
+print(male)
+print(boy_marks)
+
+
 x = y = z = 10
-x , y , z = 30, 40, 70
+a, b, c = 30, 40, 70
