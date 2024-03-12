@@ -10,5 +10,8 @@ print(male)
 print(boy_marks)
 
 
+
 x = y = z = 10
 a, b, c = 30, 40, 70
+r = 3
+t, s, j = 3, 4, 5
