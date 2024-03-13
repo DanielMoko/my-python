@@ -63,3 +63,33 @@ if location =="ruiru" or "juja" or "kenol":
 else:
     print("cannot be governor")
 
+pen=50.8
+book="70"
+total=pen+ float(book)
+result="my total is:"+str(total)+" ksh"
+print(result)
+
+t=10
+i=2
+total==t%i
+print(total)
+if total==0:
+    print("t is even")
+else:
+    print("t is odd")
+
+  #loops----BREAK
+x=1
+while x<5:
+    if x==3:
+        break
+    print(x)
+    x+=1
+
+r=0
+while r<7:
+   r+=1
+
+   if r == 3:
+       continue
+   print(r)
