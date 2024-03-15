@@ -141,10 +141,13 @@ while x<=10:
 else:
     print("the loop has ended here")
  """
-x=1
-while x<10:
+number=1
+sumofodds=0
+while number<=10:
+    if number % 2 != 0:
+        sumofodds += number
+    number += 1
+print("the sum of odds is:", sumofodds)
 
-    x+=2
-    print(x)
 
 
