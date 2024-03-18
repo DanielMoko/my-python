@@ -1,7 +1,7 @@
 thepersons=list()
 thelaptops=["hp","del" ,"toshiba" , "acer"]
 print(thelaptops)
-
+"""
 name =[]
 while len(name)<3:
     user_input = input("enter ur name: ")
@@ -9,3 +9,6 @@ while len(name)<3:
 
 name_counter= {name [0]: 0,name[1]: 0}
 print(name)
+"""
+input=[input("enter ur name:"),input("enter ur name:"),input("enter ur name:")]
+print(input)
