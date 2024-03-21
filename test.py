@@ -43,7 +43,7 @@ for item in vegetables:
 
 """
 artistik = {
-    "name":"moko",
+    "name":"moko",git addg
     "time":"midnight",
     "house":"mansion"
 }
