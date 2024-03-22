@@ -14,7 +14,7 @@ class student:
         print("student:",self.student_name)
 
 student1=student()
-student1.set_student_name("dan")
+student1.set_student_name("dan")#calling of te class
 student1.display_student_name()
 
 class student:
