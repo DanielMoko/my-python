@@ -16,3 +16,9 @@ class Student(people):
     def __init__(self,name,age,uniform):
         super().__init__(name, age)
         self.uniform= uniform
+    def printstudent(self):
+        print("the student details are :",self.name,self.age,self.uniform)
+
+student1=Student("cheb",30,"blue")
+student1.printstudent()
+student1.printpeople()
